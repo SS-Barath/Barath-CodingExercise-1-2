@@ -1,4 +1,5 @@
 // 				Behavioral Design Patterns - Observer Pattern - Stock Market Ticker System 
+
 package BehavioralDesignPatterns;
 
 import java.util.ArrayList;

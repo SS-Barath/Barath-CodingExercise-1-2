@@ -45,7 +45,7 @@ This project demonstrates various design patterns categorized into Behavioral, C
     - Payment Processing System
   - **Observer Pattern**
     - Stock Market Ticket System
- **Creational Design Patterns**
+- **Creational Design Patterns**
   - **Singleton Pattern**
     - Cache Manager System
   - **Prototype Pattern**
